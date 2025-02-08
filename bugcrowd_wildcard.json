@@ -1,0 +1,797 @@
+[
+    {
+        "name": "acorns",
+        "scope": [
+            "acorns.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/acorns"
+    },
+    {
+        "name": "afterpay",
+        "scope": [
+            "afterpay.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/afterpay"
+    },
+    {
+        "name": "arlo",
+        "scope": [
+            "arlo.com",
+            "arloxcld.com",
+            "-prod.arlo.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/arlo"
+    },
+    {
+        "name": "aruba-product-public",
+        "scope": [
+            "central.arubanetworks.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/aruba-product-public"
+    },
+    {
+        "name": "asana",
+        "scope": [
+            "asana.plus",
+            "asana.biz",
+            "app.asana.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/asana"
+    },
+    {
+        "name": "atlassian",
+        "scope": [
+            "atlassian.com",
+            "atl-paas.net",
+            "atlassian.net",
+            "atlastunnel.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/atlassian"
+    },
+    {
+        "name": "auth0-okta",
+        "scope": [
+            "cic-bug-bounty.auth0app.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/auth0-okta"
+    },
+    {
+        "name": "aylo-mbb-og",
+        "scope": [
+            "tube8.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/aylo-mbb-og"
+    },
+    {
+        "name": "aylo-trafficjunky-mbb-og",
+        "scope": [
+            "trafficjunky.com",
+            "adultforce.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/aylo-trafficjunky-mbb-og"
+    },
+    {
+        "name": "backblaze",
+        "scope": [
+            "backblazeb2.com",
+            "backblaze.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/backblaze"
+    },
+    {
+        "name": "bigcommerce",
+        "scope": [
+            "bigcommerce.com",
+            "bigcommerce.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/bigcommerce"
+    },
+    {
+        "name": "binance",
+        "scope": [
+            "binance.com",
+            "binance.us"
+        ],
+        "url": "https://bugcrowd.com/engagements/binance"
+    },
+    {
+        "name": "bitdefender",
+        "scope": [
+            "bitdefender.net",
+            "bitdefender.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/bitdefender"
+    },
+    {
+        "name": "bitgo-mbb-og-public",
+        "scope": [
+            "bitgo.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/bitgo-mbb-og-public"
+    },
+    {
+        "name": "bitstamp",
+        "scope": [
+            "bitstamp.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/bitstamp"
+    },
+    {
+        "name": "bugcrowd",
+        "scope": [
+            "bugcrowd.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/bugcrowd"
+    },
+    {
+        "name": "canva",
+        "scope": [
+            "canva.cn",
+            "canva.com",
+            "canva-apps.com",
+            "canva-apps.cn",
+            "canva.tech"
+        ],
+        "url": "https://bugcrowd.com/engagements/canva"
+    },
+    {
+        "name": "cashapp",
+        "scope": [
+            "cash.app",
+            "cashstaging.app"
+        ],
+        "url": "https://bugcrowd.com/engagements/cashapp"
+    },
+    {
+        "name": "ciscomeraki",
+        "scope": [
+            "meraki.com",
+            "ikarem.io",
+            "network-auth.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/ciscomeraki"
+    },
+    {
+        "name": "classdojo",
+        "scope": [
+            "classdojo.com",
+            "classdojo.co.uk",
+            "doj.io",
+            "dojo.me"
+        ],
+        "url": "https://bugcrowd.com/engagements/classdojo"
+    },
+    {
+        "name": "comcast-mbb",
+        "scope": [
+            "xfinity.com",
+            "comcast.com",
+            "xcal.tv"
+        ],
+        "url": "https://bugcrowd.com/engagements/comcast-mbb"
+    },
+    {
+        "name": "comcastvdp",
+        "scope": [
+            "sys.comcast.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/comcastvdp"
+    },
+    {
+        "name": "cyberghost",
+        "scope": [
+            "cyberghost.com",
+            "cyberghostvpn.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/cyberghost"
+    },
+    {
+        "name": "dell-com",
+        "scope": [
+            "dell.com",
+            "delltechnologies.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/dell-com"
+    },
+    {
+        "name": "directly",
+        "scope": [
+            "sandbox.directly.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/directly"
+    },
+    {
+        "name": "dropbox",
+        "scope": [
+            "dropbox.com",
+            "hellosign.com",
+            "helloworks.com",
+            "hellofax.com",
+            "dropboxforum.com",
+            "docsend.com",
+            "dropboxer.net",
+            "dropboxpartners.com",
+            "reclaim.ai"
+        ],
+        "url": "https://bugcrowd.com/engagements/dropbox"
+    },
+    {
+        "name": "entain-glf-mbb-og",
+        "scope": [
+            "betmgm.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/entain-glf-mbb-og"
+    },
+    {
+        "name": "epam-mbb-og",
+        "scope": [
+            "epam.com",
+            "projects.epam.com",
+            "lab.epam.com",
+            "opensource.epam.com",
+            "emakina.nl",
+            "emakina.group",
+            "emakina.com",
+            "emakina.ch",
+            "emakina.fr",
+            "emakina.us",
+            "emakina.at"
+        ],
+        "url": "https://bugcrowd.com/engagements/epam-mbb-og"
+    },
+    {
+        "name": "etsy",
+        "scope": [
+            "etsy.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/etsy"
+    },
+    {
+        "name": "exoscale",
+        "scope": [
+            "internal.exoscale.ch"
+        ],
+        "url": "https://bugcrowd.com/engagements/exoscale"
+    },
+    {
+        "name": "expressvpn",
+        "scope": [
+            "expressvpn.com",
+            "xvservice.net",
+            "xvtest.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/expressvpn"
+    },
+    {
+        "name": "financialforce",
+        "scope": [
+            "financialforce.com",
+            "certinia.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/financialforce"
+    },
+    {
+        "name": "flourish",
+        "scope": [
+            "flourish.studio",
+            "xyzbmojn.net",
+            "kiln.it"
+        ],
+        "url": "https://bugcrowd.com/engagements/flourish"
+    },
+    {
+        "name": "foxycart",
+        "scope": [
+            "-bugcrowd.foxycart.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/foxycart"
+    },
+    {
+        "name": "hubspot",
+        "scope": [
+            "hubspotemail.net",
+            "hubspotpagebuilder.com",
+            "hubspotpagebuilder.eu"
+        ],
+        "url": "https://bugcrowd.com/engagements/hubspot"
+    },
+    {
+        "name": "hutgroup-public",
+        "scope": [
+            "ameliorate.com",
+            "beautyexpert.com",
+            "dermstore.com",
+            "espaskincare.com",
+            "exantediet.com",
+            "eyeko.com",
+            "glossybox.com",
+            "growgorgeous.com",
+            "hqhair.com",
+            "illamasqua.com",
+            "mioskincare.com",
+            "mankind.co.uk",
+            "mybag.com",
+            "myvitamins.com",
+            "powerman.co.uk",
+            "skinstore.com",
+            "thehut.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/hutgroup-public"
+    },
+    {
+        "name": "ifood-og",
+        "scope": [
+            "movilepay.com",
+            "movilepay.com.br"
+        ],
+        "url": "https://bugcrowd.com/engagements/ifood-og"
+    },
+    {
+        "name": "immutable",
+        "scope": [
+            "guildofguardians.com",
+            "immutable.com",
+            "imtbl.com",
+            "testnet.immutable.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/immutable"
+    },
+    {
+        "name": "imperva-mbb",
+        "scope": [
+            "imperva.com",
+            "cloudvector.com",
+            "incapsula.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/imperva-mbb"
+    },
+    {
+        "name": "indeed",
+        "scope": [
+            "indeed.com",
+            "indeedflex.com",
+            "indeed.tech",
+            "indeed.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/indeed"
+    },
+    {
+        "name": "intercom",
+        "scope": [
+            "intercomassets.com",
+            "intercomcdn.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/intercom"
+    },
+    {
+        "name": "jora",
+        "scope": [
+            "jora.com",
+            "jora.xyz"
+        ],
+        "url": "https://bugcrowd.com/engagements/jora"
+    },
+    {
+        "name": "justeattakeaway",
+        "scope": [
+            "scoober.com",
+            "lieferando.at",
+            "yourdelivery.de",
+            "takeaway.com",
+            "citymeal.com",
+            "lieferando.de",
+            "thuisbezorgd.nl",
+            "bistro.sk",
+            "just-eat.fr",
+            "eat.ch",
+            "just-eat.no",
+            "just-eat.dk",
+            "pyszne.pl",
+            "justeattakeaway.com",
+            "10bis.co.il",
+            "beta.scoober.com",
+            "just-data.io",
+            "justeat-int.com",
+            "just-eat.co.uk",
+            "just-eat.ie",
+            "menulog.co.nz",
+            "menulog.com.au",
+            "just-eat.com",
+            "je-apis.com",
+            "just-eat.it",
+            "just-eat.es",
+            "skipthedishes.com",
+            "just-eat.io"
+        ],
+        "url": "https://bugcrowd.com/engagements/justeattakeaway"
+    },
+    {
+        "name": "kaleido",
+        "scope": [
+            "remove.bg",
+            "designify.com",
+            "kaleido.ai",
+            "unscreen.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/kaleido"
+    },
+    {
+        "name": "latitude-financial-service-bugbounty",
+        "scope": [
+            "28degreescard.com.au",
+            "buyersedge.com.au",
+            "carecredit.com.au",
+            "gemcreditline.co.nz",
+            "gemfinance.co.nz",
+            "gemvisa.com.au",
+            "genoapay.co.nz",
+            "genoapay.com",
+            "gomastercard.com.au",
+            "interestfree.com.au",
+            "latitudefinancial.co.nz",
+            "latitudefinancial.com",
+            "latitudefinancial.com.au",
+            "latitudeinfinity.com.au",
+            "latitudepay.com.au",
+            "latitudepay.com",
+            "umiloans.com.au",
+            "lfscnp.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/latitude-financial-service-bugbounty"
+    },
+    {
+        "name": "linktree-mbb-og",
+        "scope": [
+            "linktr.ee",
+            "linktree.com",
+            "tr.ee",
+            "linktree-extensions.com",
+            "odesli.co",
+            "odesli.com",
+            "song.link",
+            "songlink.io",
+            "album.link",
+            "artist.link",
+            "pods.link",
+            "playlist.link",
+            "mylink.page"
+        ],
+        "url": "https://bugcrowd.com/engagements/linktree-mbb-og"
+    },
+    {
+        "name": "mattermost-mbb-public",
+        "scope": [
+            "cloud.mattermost.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/mattermost-mbb-public"
+    },
+    {
+        "name": "newrelic-mbb-og-public",
+        "scope": [
+            "nr-data.net",
+            "nr-ops.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/newrelic-mbb-og-public"
+    },
+    {
+        "name": "northwestern-mutual-mbb-og",
+        "scope": [
+            "northwesternmutual.com",
+            "nml.com",
+            "nmfn.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/northwestern-mutual-mbb-og"
+    },
+    {
+        "name": "nubank",
+        "scope": [
+            "nubank.com.br",
+            "nu.com.mx",
+            "nu.com.co",
+            "nuinvest.com.br"
+        ],
+        "url": "https://bugcrowd.com/engagements/nubank"
+    },
+    {
+        "name": "octopus-og",
+        "scope": [
+            "octopus.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/octopus-og"
+    },
+    {
+        "name": "openai",
+        "scope": [
+            "openai.org",
+            "openai.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/openai"
+    },
+    {
+        "name": "opera",
+        "scope": [
+            "opera.software",
+            "osp.opera.software",
+            "opera.technology",
+            "sec-tunnel.com",
+            "opera.com",
+            "opera-mini.net",
+            "opera.news",
+            "operanewsapp.com",
+            "yoyogames.com",
+            "apex-football.com",
+            "operafootball.com",
+            "feednews.com",
+            "dailyadvent.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/opera"
+    },
+    {
+        "name": "opsgenie",
+        "scope": [
+            "opsgenie.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/opsgenie"
+    },
+    {
+        "name": "originenergy-og1",
+        "scope": [
+            "origindigital-pac.com.au",
+            "odcdn.com.au",
+            "support.originenergy.com.au",
+            "api.originenergy.com.au",
+            "download.originenergy.com.au"
+        ],
+        "url": "https://bugcrowd.com/engagements/originenergy-og1"
+    },
+    {
+        "name": "pexels",
+        "scope": [
+            "pexels.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/pexels"
+    },
+    {
+        "name": "pinterest",
+        "scope": [
+            "pinterest.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/pinterest"
+    },
+    {
+        "name": "pixabay",
+        "scope": [
+            "pixabay.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/pixabay"
+    },
+    {
+        "name": "plusgrade-mbb-public",
+        "scope": [
+            "points.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/plusgrade-mbb-public"
+    },
+    {
+        "name": "privateinternetaccess",
+        "scope": [
+            "privateinternetaccess.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/privateinternetaccess"
+    },
+    {
+        "name": "quizlet",
+        "scope": [
+            "quizlet.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/quizlet"
+    },
+    {
+        "name": "rapyd",
+        "scope": [
+            "rapyd.net",
+            "neatcommerce.com",
+            "korta.is",
+            "neattest.com",
+            "rapyd.com",
+            "rapyd.org",
+            "neat.com.hk",
+            "kortathjonustan.is",
+            "neat.hk",
+            "neat.wtf"
+        ],
+        "url": "https://bugcrowd.com/engagements/rapyd"
+    },
+    {
+        "name": "recroom-og",
+        "scope": [
+            "rec.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/recroom-og"
+    },
+    {
+        "name": "seek",
+        "scope": [
+            "seek.com.au",
+            "skinfra.xyz",
+            "outfra.xyz",
+            "sol-data.com",
+            "jobapi.net",
+            "seekpass.co",
+            "seekpass-staging.com",
+            "aips-internal.com",
+            "certsy.com",
+            "certsynonprod.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/seek"
+    },
+    {
+        "name": "shoppingcart",
+        "scope": [
+            "mcssl.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/shoppingcart"
+    },
+    {
+        "name": "skyscanner",
+        "scope": [
+            "skyscanner.net"
+        ],
+        "url": "https://bugcrowd.com/engagements/skyscanner"
+    },
+    {
+        "name": "smartmockups",
+        "scope": [
+            "smartmockups.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/smartmockups"
+    },
+    {
+        "name": "sophos",
+        "scope": [
+            "sophos.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/sophos"
+    },
+    {
+        "name": "soundcloud",
+        "scope": [
+            "soundcloud.org",
+            "s-cloud.net",
+            "soundcloud.com",
+            "services.repostnetwork.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/soundcloud"
+    },
+    {
+        "name": "square",
+        "scope": [
+            "square.com",
+            "squareup.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/square"
+    },
+    {
+        "name": "statuspage",
+        "scope": [
+            "statuspage.io"
+        ],
+        "url": "https://bugcrowd.com/engagements/statuspage"
+    },
+    {
+        "name": "t-mobile",
+        "scope": [
+            "api.t-mobile.com",
+            "t-mobile.com",
+            "metrobyt-mobile.com",
+            "sprint.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/t-mobile"
+    },
+    {
+        "name": "tesla",
+        "scope": [
+            "tesla.cn",
+            "tesla.services",
+            "tesla.com",
+            "teslamotors.com",
+            "solarcity.com",
+            "teslainsuranceservices.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/tesla"
+    },
+    {
+        "name": "thefork-b2c-wng",
+        "scope": [
+            "tools.thefork.tech"
+        ],
+        "url": "https://bugcrowd.com/engagements/thefork-b2c-wng"
+    },
+    {
+        "name": "tidal-bugbounty",
+        "scope": [
+            "tidal.com",
+            "wimpmusic.com",
+            "tidalhifi.com",
+            "tidalhi.fi",
+            "tdl.sh"
+        ],
+        "url": "https://bugcrowd.com/engagements/tidal-bugbounty"
+    },
+    {
+        "name": "trello",
+        "scope": [
+            "trello.services"
+        ],
+        "url": "https://bugcrowd.com/engagements/trello"
+    },
+    {
+        "name": "tripadvisor-bb-og",
+        "scope": [
+            "vacationhomerentals.com",
+            "holidaylettings.com",
+            "flipkey.com",
+            "niumba.com",
+            "housetrip.com",
+            "bokundemo.com",
+            "bokuntest.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/tripadvisor-bb-og"
+    },
+    {
+        "name": "twilio",
+        "scope": [
+            "twilio.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/twilio"
+    },
+    {
+        "name": "underarmour",
+        "scope": [
+            "api.ua.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/underarmour"
+    },
+    {
+        "name": "verisign",
+        "scope": [
+            "gtld-servers.net",
+            "youcouldbe.com",
+            "namestudioforsocial.com",
+            "namestudio.com",
+            "verisign.com",
+            "verisign-grs.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/verisign"
+    },
+    {
+        "name": "viator",
+        "scope": [
+            "viatorinc.com",
+            "viator.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/viator"
+    },
+    {
+        "name": "wise",
+        "scope": [
+            "transferwise.com",
+            "wise.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/wise"
+    },
+    {
+        "name": "xfinity-home",
+        "scope": [
+            "sys.comcast.net",
+            "signalservice.comcast.net",
+            "dh-commerce.com",
+            "ssr.ccp.xcal.tv",
+            "xfiplatform.com",
+            "codebig2.net",
+            "cloud.comcast.net",
+            "xfinityhome.com"
+        ],
+        "url": "https://bugcrowd.com/engagements/xfinity-home"
+    }
+]
