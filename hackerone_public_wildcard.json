@@ -703,7 +703,6 @@
     {
         "name": "mercadolibre",
         "scope": [
-            "kangu.com.br",
             "adminml.com",
             "mercadolibre.cl",
             "mercadolibre.com",
@@ -721,11 +720,6 @@
             "mercadopago.com.mx",
             "mercadopago.com.pe",
             "mercadopago.com.uy",
-            "gokangu.cl",
-            "gokangu.co",
-            "gokangu.mx",
-            "gokangu.uy",
-            "kangu.tech",
             "mercadoshops.cl",
             "mercadoshops.co.cr",
             "mercadoshops.com",
