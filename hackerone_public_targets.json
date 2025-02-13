@@ -80,6 +80,7 @@
             "*.wavecell.com",
             "pay.8x8.com",
             "admin.8x8.com",
+            "8x8 Partner Portal",
             "8x8 Communication APIs"
         ],
         "url": "https://hackerone.com/8x8-bounty"
@@ -117,18 +118,14 @@
         "name": "adobe",
         "scope": [
             "account.adobe.com",
-            "acrobat.adobe.com",
             "auth.services.adobe.com",
+            "fonts.adobe.com",
             "com.adobe.reader",
+            "com.iphone.workfront",
             "marketplace.magento.com",
-            "magentocommerce.com",
             "repo.magento.com",
             "magento.com",
-            "u.magento.com",
-            "imagine.magento.com",
-            "magentolive.com",
             "account.magento.com",
-            "accounts.magento.cloud",
             "Adobe Commerce, Commerce B2B and Commerce Open Source",
             "com.adobe.lrmobile",
             "com.adobe.scan.android",
@@ -136,6 +133,7 @@
             "ColdFusion",
             "stock.adobe.com",
             "contributor.stock.adobe.com",
+            "com.adobe.PSMobile",
             "firefly.adobe.com",
             "C2PA Tool",
             "https://contentcredentials.org/",
@@ -150,7 +148,12 @@
             "*.lightroom.adobe.com",
             "new.express.adobe.com",
             "net.s2stagehance.com",
-            "learningmanagerstage4.adobe.com"
+            "learningmanagerstage4.adobe.com",
+            "photos.adobe.io",
+            "*.acrobat.adobe.com",
+            "adobe.fresco.ios",
+            "com.adobe.workfront",
+            "portfolio.ccpsx.com"
         ],
         "url": "https://hackerone.com/adobe"
     },
@@ -235,16 +238,6 @@
             "https://github.com/AleoHQ/snarkVM/"
         ],
         "url": "https://hackerone.com/aleo"
-    },
-    {
-        "name": "algolia",
-        "scope": [
-            "www.algolia.com",
-            "*.algolia.net",
-            "*.algolianet.com",
-            "dashboard.algolia.com"
-        ],
-        "url": "https://hackerone.com/algolia"
     },
     {
         "name": "alsco",
@@ -462,13 +455,13 @@
     {
         "name": "bcny",
         "scope": [
-            "Arc on Window",
             "Arc on Mac",
             "id6472513080",
             "company.thebrowser.arc",
             "arc.net",
             "thebrowser.company",
-            "bcny.com"
+            "bcny.com",
+            "Arc on Windows"
         ],
         "url": "https://hackerone.com/bcny"
     },
@@ -703,6 +696,17 @@
             "1089294040"
         ],
         "url": "https://hackerone.com/capital-one-bounty"
+    },
+    {
+        "name": "chainlink",
+        "scope": [
+            "https://github.com/smartcontractkit/chainlink",
+            "https://github.com/smartcontractkit/chainlink/tree/master/contracts",
+            "Faucets",
+            "https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts",
+            "https://github.com/smartcontractkit/external-adapters-js/"
+        ],
+        "url": "https://hackerone.com/chainlink"
     },
     {
         "name": "chaturbate",
@@ -1254,78 +1258,6 @@
         "url": "https://hackerone.com/dynatrace"
     },
     {
-        "name": "dyson",
-        "scope": [
-            "993135524",
-            "com.dyson.mobile.android",
-            "Dyson Connected Products (IoT Hardware)",
-            "Other Dyson Assets",
-            "Github findings",
-            "www.dyson.co.uk",
-            "www.dyson.com",
-            "www.dysoncanada.ca",
-            "www.dyson.it",
-            "www.dyson.ie",
-            "www.dyson.ch",
-            "www.dyson.se",
-            "www.dyson.nl",
-            "www.dyson.at",
-            "www.dyson.be",
-            "www.dyson.pt",
-            "www.dyson.de",
-            "www.dyson.fr",
-            "www.dyson.no",
-            "www.dyson.dk",
-            "www.dyson.es",
-            "www.fi.dyson.com",
-            "api.dyson.se",
-            "api.dysoncanada.ca",
-            "api.dyson.dk",
-            "api.dyson.it",
-            "api.dyson.es",
-            "api.dyson.co.uk",
-            "api.dyson.at",
-            "api.dyson.nl",
-            "api.dyson.be",
-            "api.dyson.pt",
-            "api.dyson.no",
-            "api.dyson.de",
-            "api.dyson.ch",
-            "api.dyson.fr",
-            "api.dyson.ie",
-            "api.dyson.com",
-            "api.fi.dyson.com",
-            "www.dyson.pl",
-            "www.dyson.in",
-            "www.dyson.com.mx",
-            "www.dyson.com.sg",
-            "www.dyson.co.kr",
-            "www.dyson.co.nz",
-            "www.dyson.com.tr",
-            "www.dyson.ae",
-            "www.dyson.co.il",
-            "www.dyson.com.au",
-            "www.dyson.hk",
-            "www.dyson.co.th",
-            "www.dyson.my",
-            "shop.dyson.co.za",
-            "www.sa.dyson.com",
-            "www.dyson.cz",
-            "www.dyson.hu",
-            "www.dyson.co.jp",
-            "www.dyson.com.ro",
-            "www.dyson.vn",
-            "*.cp.dyson.com",
-            "www.dyson.cn",
-            "www.dyson.com.ua",
-            "shop.dyson.tw",
-            "www.dyson.tw",
-            "www.gr.dyson.com",
-            "www.dyson.com.ee"
-        ],
-        "url": "https://hackerone.com/dyson"
-    },
-    {
         "name": "early_warning",
         "scope": [
             "com.zellepay.zelle",
@@ -1614,6 +1546,7 @@
             "www.hotels.com",
             "www.expedia.com",
             "www.vrbo.com",
+            "www.hotwire.com",
             "www.hotwirepartnercentral.com",
             "566635048",
             "com.hotwire.hotels",
@@ -1652,7 +1585,6 @@
             "com.vrbo.android",
             "1245772818",
             "*.vrbo.com",
-            "*.hotwire.com",
             "*.carrentals.com",
             "*.wotif.com",
             "*.cheaptickets.com",
@@ -2862,7 +2794,6 @@
             "1018340690",
             "www.logitech.com",
             "www.logitechg.com",
-            "www.jaybirdsport.com",
             "www.ultimateears.com",
             "www.astrogaming.com",
             "*vc.logitech.com",
@@ -3503,19 +3434,6 @@
             "Web3 DEX Open Source"
         ],
         "url": "https://hackerone.com/okg"
-    },
-    {
-        "name": "omise",
-        "scope": [
-            "vault.omise.co",
-            "api.omise.co",
-            "dashboard.omise.co",
-            "github.com",
-            "www.omise.co",
-            "offsite.omise.co",
-            "www.opn.ooo"
-        ],
-        "url": "https://hackerone.com/omise"
     },
     {
         "name": "palantir_public",
@@ -4402,7 +4320,8 @@
             "VPN",
             "*.spotify.com",
             "*.spotify.net",
-            " api.spotify.com, api-partner.spotify.com"
+            "api.spotify.com",
+            "api-partner.spotify.com"
         ],
         "url": "https://hackerone.com/spotify"
     },
@@ -4422,52 +4341,6 @@
         "url": "https://hackerone.com/starbucks"
     },
     {
-        "name": "starbucks_apac",
-        "scope": [
-            "www.starbucks.com.au/",
-            "Starbucks Australia iOS",
-            "Starbucks Australia Android",
-            "www.starbucks.com.bn/",
-            "www.starbucks.com.kh/",
-            "Starbucks Cambodia iOS",
-            "Starbucks Cambodia Android",
-            "www.starbucks.com.hk/",
-            "Starbucks Hong Kong iOS",
-            "Starbucks Hong Kong Android",
-            "www.starbucks.in/",
-            "Starbucks India iOS",
-            "Starbucks India Android",
-            "www.starbucks.co.id/",
-            "Starbucks Indonesia iOS",
-            "Starbucks Indonesia Android",
-            "www.starbucks.la/",
-            "www.starbucks.com.my/",
-            "Starbucks Malaysia iOS",
-            "Starbucks Malaysia Android",
-            "www.starbucks.co.nz/",
-            "Starbucks New Zealand iOS",
-            "Starbucks New Zealand Android",
-            "www.starbucks.ph/",
-            "Starbucks Philippines iOS",
-            "Starbucks Philippines Android",
-            "www.starbucks.com.sg/",
-            "Starbucks Singapore iOS",
-            "Starbucks Singapore Android",
-            "www.starbucks.co.kr/",
-            "Starbucks Korea Android",
-            "www.starbucks.com.tw/",
-            "Starbucks Taiwan iOS",
-            "Starbucks Taiwan Android",
-            "www.starbucks.co.th/",
-            "Starbucks Thailand iOS",
-            "Starbucks Thailand Android",
-            "www.starbucks.vn/",
-            "Starbucks Vietnam iOS",
-            "Starbucks Vietnam Android"
-        ],
-        "url": "https://hackerone.com/starbucks_apac"
-    },
-    {
         "name": "starbucks_china",
         "scope": [
             "www.starbucks.com.cn/",
@@ -4475,74 +4348,6 @@
             "Starbucks China Android"
         ],
         "url": "https://hackerone.com/starbucks_china"
-    },
-    {
-        "name": "starbucks_emea",
-        "scope": [
-            "www.starbucks.at",
-            "Starbucks Austria iOS",
-            "Starbucks Austria Android App",
-            "www.starbucks.be",
-            "www.starbucks.bg",
-            "card.starbucks.com.cy/",
-            "www.starbucks.cz/",
-            "www.starbucks.eg",
-            "Starbucks Czech Republic",
-            "Starbucks Czech Republic ",
-            "www.starbucks.fr/",
-            "Starbucks France iOS",
-            "Starbucks France Android",
-            "www.starbucks.de",
-            "Starbucks Germany iOS",
-            "Starbucks Germany Android",
-            "card.starbucks.com.gr/",
-            "www.starbucks.hu",
-            "www.starbucks.it/",
-            "www.starbucks.mt",
-            "www.starbucks.nl",
-            "www.starbucks.no",
-            "www.starbucks.pl",
-            "Starbucks Poland iOS",
-            "www.starbucks.pt/",
-            "Starbucks Portugal iOS",
-            "Starbucks Portugal Android",
-            "www.starbucks.ie/",
-            "Starbucks Ireland iOS",
-            "Starbucks Ireland Android",
-            "www.starbucks.ro",
-            "Starbucks Romania iOS",
-            "Starbucks Romania Android",
-            "www.starbucksslovakia.sk/",
-            "www.starbucks.co.za/",
-            "Starbucks South Africa iOS",
-            "Starbucks South Africa Android",
-            "www.starbucks.es",
-            "Starbucks Spain iOS",
-            "Starbucks Spain Android",
-            "www.starbucks.ch",
-            "Starbucks Switzerland iOS",
-            "Starbucks Switzerland Android",
-            "www.starbucks.com.tr",
-            "Starbucks Turkey iOS",
-            "Starbucks Turkey Android",
-            "www.starbucks.co.uk/",
-            "Starbucks United Kingdom iOS",
-            "Starbucks United Kingdom Android",
-            "www.roastery.starbucks.it",
-            "www.starbucks.com.kz",
-            "www.starbucks.ae",
-            "www.starbucks.com.bh",
-            "www.starbucks.com.jo",
-            "www.starbucks.com.kw",
-            "www.starbucks.com.lb",
-            "www.starbucks.co.ma",
-            "www.starbucks.com.om",
-            "www.starbucks.qa",
-            "www.starbucks.sa",
-            "www.starbucks.co.za",
-            "www.starbucks.rs"
-        ],
-        "url": "https://hackerone.com/starbucks_emea"
     },
     {
         "name": "starbucks_japan",
@@ -4556,33 +4361,6 @@
             "login.starbucks.co.jp"
         ],
         "url": "https://hackerone.com/starbucks_japan"
-    },
-    {
-        "name": "starbucks_lac",
-        "scope": [
-            "www.starbucks.com.ar/",
-            "Starbucks Argentina iOS",
-            "Starbucks Argentina Android",
-            "www.starbucks.cl",
-            "Starbucks Chile iOS",
-            "Starbucks Chile Android",
-            "www.starbucks.co.cr/",
-            "www.starbucks.com.sv",
-            "Starbucks El Salvador iOS",
-            "Starbucks El Salvador Android",
-            "www.starbucks.com.mx/",
-            "Starbucks Mexico iOS",
-            "Starbucks Mexico Android",
-            "www.starbucks.pa/",
-            "www.starbucks.com.py/",
-            "www.starbucks.pe",
-            "Starbucks Peru iOS",
-            "Starbucks Peru Android",
-            "www.starbuckspr.com/",
-            "www.starbucks.tt",
-            "www.starbucks.com.uy"
-        ],
-        "url": "https://hackerone.com/starbucks_lac"
     },
     {
         "name": "stripe",
@@ -4715,6 +4493,26 @@
             "*.tinderwebstaging.com"
         ],
         "url": "https://hackerone.com/tinder"
+    },
+    {
+        "name": "toloka_ai",
+        "scope": [
+            "https://toloka.ai/",
+            "https://mindrift.ai/",
+            "auth.toloka.ai",
+            "sso.auth.toloka.ai",
+            "ladybug.a9s.toloka.ai",
+            "workspace.toloka.dev",
+            "https://we.toloka.ai/auth",
+            "tb.toloka.dev",
+            "https://api-ui.toloka.ai",
+            "mindrift.toloka.ai",
+            "experts-portal.toloka.ai",
+            "ai.toloka.expert",
+            "id6504492387",
+            "workspace.toloka.ai"
+        ],
+        "url": "https://hackerone.com/toloka_ai"
     },
     {
         "name": "toolsforhumanity",
@@ -5352,6 +5150,14 @@
             "MIUI OS for Xiaomi Phone"
         ],
         "url": "https://hackerone.com/xiaomi"
+    },
+    {
+        "name": "xverse",
+        "scope": [
+            "com.secretkeylabs.xverse",
+            "https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg"
+        ],
+        "url": "https://hackerone.com/xverse"
     },
     {
         "name": "xvideos",

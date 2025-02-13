@@ -28,7 +28,8 @@
     {
         "name": "adobe",
         "scope": [
-            "lightroom.adobe.com"
+            "lightroom.adobe.com",
+            "acrobat.adobe.com"
         ],
         "url": "https://hackerone.com/adobe"
     },
@@ -55,14 +56,6 @@
             "staging.airtable.com"
         ],
         "url": "https://hackerone.com/airtable"
-    },
-    {
-        "name": "algolia",
-        "scope": [
-            "algolia.net",
-            "algolianet.com"
-        ],
-        "url": "https://hackerone.com/algolia"
     },
     {
         "name": "amazonvrp",
@@ -298,13 +291,6 @@
         "url": "https://hackerone.com/dynatrace"
     },
     {
-        "name": "dyson",
-        "scope": [
-            "cp.dyson.com"
-        ],
-        "url": "https://hackerone.com/dyson"
-    },
-    {
         "name": "early_warning",
         "scope": [
             "zellepay.com",
@@ -372,7 +358,6 @@
         "name": "expediagroup_bbp",
         "scope": [
             "vrbo.com",
-            "hotwire.com",
             "carrentals.com",
             "wotif.com",
             "cheaptickets.com",
