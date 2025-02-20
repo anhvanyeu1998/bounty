@@ -219,19 +219,6 @@
         "url": "https://hackerone.com/airtable"
     },
     {
-        "name": "alchemyplatform",
-        "scope": [
-            "https://github.com/alchemyplatform/modular-account",
-            "https://etherscan.io/address/0x0046000000000151008789797b54fdb500E2a61e",
-            "https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647",
-            "https://etherscan.io/address/0x0000003E0000a96de4058e1E02a62FaaeCf23d8d",
-            "https://etherscan.io/address/0x000000e92d78d90000007f0082006fda09bd5f11",
-            "https://etherscan.io/address/0x000000000000204327E6669f00901a57CE15aE15",
-            "https://etherscan.io/address/0x000000000000a53f64b7bcf4cd59624943c43fc7"
-        ],
-        "url": "https://hackerone.com/alchemyplatform"
-    },
-    {
         "name": "aleo",
         "scope": [
             "https://github.com/AleoHQ/snarkOS/",
@@ -637,14 +624,10 @@
             "ccardseu1.badoo.com",
             "ccardsus1.badoo.com",
             "chatdate.app",
-            "com.flashgap.fruits",
-            "com.flashgap.fruitz",
             "com.hotornot.app",
             "com.badoo.hotornot",
             "6444040977",
             "com.bumblebff.app",
-            "com.official.rnapp",
-            "getofficial.co",
             "1604650263"
         ],
         "url": "https://hackerone.com/bumble"
@@ -2270,7 +2253,6 @@
             "booking.cheapcaribbean.com",
             "booking.beachbound.com",
             "book.beachbound.com",
-            "book.extraholidaysvacations.com",
             "holidays-nz.fijiairways.com",
             "res.funjet.com",
             "res.secretsresorts.com",
@@ -2555,7 +2537,9 @@
     {
         "name": "klarna",
         "scope": [
-            "Merchant Portal"
+            "Merchant Portal",
+            "Klarna iOS App (com.klarna.app)",
+            "Klarna Android App (com.myklarnamobile)"
         ],
         "url": "https://hackerone.com/klarna"
     },
@@ -3369,7 +3353,6 @@
         "scope": [
             "test.nicehash.com",
             "com.nicehash.metallum",
-            "https://test.nicehash.com/shop/",
             "com.nicehash.mobile",
             "https://api-test.nicehash.com"
         ],
@@ -3419,6 +3402,26 @@
         "url": "https://hackerone.com/nordsecurity"
     },
     {
+        "name": "oasisprotocol",
+        "scope": [
+            "https://github.com/oasisprotocol/oasis-core",
+            "https://github.com/oasisprotocol/deoxysii",
+            "https://github.com/oasisprotocol/deoxysii-rust",
+            "https://github.com/oasisprotocol/oasis-sdk",
+            "https://github.com/oasisprotocol/curve25519-voi",
+            "https://github.com/oasisprotocol/oasis-wallet-web",
+            "https://github.com/oasisprotocol/oasis-wallet-ext",
+            "wallet.oasis.io",
+            "status.oasis.io",
+            "http://emerald.oasis.dev",
+            "http://grpc.oasis.dev",
+            "http://rosetta.oasis.dev/api/mainnet",
+            "http://sapphire.oasis.io",
+            "github.com/oasisprotocol/explorer"
+        ],
+        "url": "https://hackerone.com/oasisprotocol"
+    },
+    {
         "name": "okg",
         "scope": [
             "*.okx.com",
@@ -3434,6 +3437,92 @@
             "Web3 DEX Open Source"
         ],
         "url": "https://hackerone.com/okg"
+    },
+    {
+        "name": "oppo_bbp",
+        "scope": [
+            "https://developers.oppomobile.com",
+            "https://e.oppomobile.com",
+            "https://open.oppomobile.com",
+            "http://heytap.com",
+            "https://e.heytap.com/",
+            "ColorOS",
+            "LockScreenMagazine",
+            "OPPO+",
+            "QuickApps",
+            "http://coloros.com",
+            "com.coloros.browser",
+            "com.coloros.encryption",
+            "com.coloros.securepay",
+            "com.coloros.speechassist",
+            "com.coloros.video",
+            "com.fintech.life",
+            "com.heytap.browser",
+            "com.heytap.cloud",
+            "com.heytap.health.international",
+            "com.heytap.market",
+            "com.heytap.themestore",
+            "com.heytap.xgame",
+            "com.nearme.browser",
+            "com.nearme.themespace",
+            "com.nearme.themestore",
+            "com.oplus.account",
+            "com.oplus.member",
+            "com.oplus.themestore",
+            "com.oplus.vip",
+            "com.opos.ads",
+            "com.oppo.cloud",
+            "com.oppo.encryption",
+            "com.oppo.market",
+            "com.oppo.quicksearchbox",
+            "com.oppo.speechassist",
+            "com.oppo.usercenter",
+            "http://heytapmobi.com",
+            "myoppo.com",
+            "http://oppofind.com",
+            "opposhop.cn",
+            "*.coloros.com",
+            "community.coloros.com",
+            "*.oppo.com",
+            "*.oppomobile.com",
+            "*.myoas.com",
+            "*.wanyol.com",
+            "*.myoas.net",
+            "A16k",
+            "A76",
+            "A96",
+            "F 21 Pro",
+            "FindN2",
+            "FindN2Flip",
+            "FindN3",
+            "FindN3Flip",
+            "FindX6",
+            "FindX6Pro",
+            "FindX7",
+            "FindX7Ultra",
+            "K10",
+            "K105G",
+            "K9",
+            "K9Pro",
+            "K9s",
+            "Porsche-B",
+            "Reno105G",
+            "Reno10Pro+5G",
+            "Reno10Pro5G",
+            "Reno115G",
+            "Reno11Pro5G",
+            "Reno12",
+            "Reno12Pro",
+            "Reno8Pro5G",
+            "Reno9Pro+5G",
+            "Reno9Pro5G",
+            "Reno 9 5G",
+            "nearme.com.cn",
+            "Test environment",
+            "*.nearme.com.cn",
+            "*.myoppo.com"
+        ],
+        "url": "https://hackerone.com/oppo_bbp"
     },
     {
         "name": "palantir_public",

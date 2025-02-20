@@ -795,6 +795,20 @@
         "url": "https://hackerone.com/okg"
     },
     {
+        "name": "oppo_bbp",
+        "scope": [
+            "coloros.com",
+            "oppo.com",
+            "oppomobile.com",
+            "myoas.com",
+            "wanyol.com",
+            "myoas.net",
+            "nearme.com.cn",
+            "myoppo.com"
+        ],
+        "url": "https://hackerone.com/oppo_bbp"
+    },
+    {
         "name": "payoneer",
         "scope": [
             "payoneer.com"
