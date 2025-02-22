@@ -475,8 +475,7 @@
         "scope": [
             "gocardless.io",
             "gocardless-banking.io",
-            "gocardless-cicd.io",
-            "gocardless-lab.io"
+            "gocardless-cicd.io"
         ],
         "url": "https://hackerone.com/gocardless_bbp"
     },

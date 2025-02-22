@@ -970,13 +970,6 @@
         "url": "https://hackerone.com/consensys"
     },
     {
-        "name": "constitutional-classifiers",
-        "scope": [
-            "Constitutional Classifiers"
-        ],
-        "url": "https://hackerone.com/constitutional-classifiers"
-    },
-    {
         "name": "cosmos",
         "scope": [
             "https://github.com/cosmos/iavl",
@@ -1167,9 +1160,7 @@
             "pb.deribit.com",
             "*.deribit.com",
             "Tier 1",
-            "Tier 2",
-            "tools.deribit.com",
-            "metrics.deribit.com"
+            "Tier 2"
         ],
         "url": "https://hackerone.com/deribit"
     },
@@ -1959,7 +1950,6 @@
             "*.gocardless.io,*.gocardless-banking.io",
             "*.gocardless-cicd.io",
             "oauth-sandbox.gocardless.com",
-            "*.gocardless-lab.io",
             "bankaccountdata.gocardless.com, ob.gocardless.com",
             "auth0.gocardless.com"
         ],
@@ -3439,6 +3429,19 @@
         "url": "https://hackerone.com/okg"
     },
     {
+        "name": "omise",
+        "scope": [
+            "vault.omise.co",
+            "api.omise.co",
+            "dashboard.omise.co",
+            "github.com",
+            "www.omise.co",
+            "offsite.omise.co",
+            "www.opn.ooo"
+        ],
+        "url": "https://hackerone.com/omise"
+    },
+    {
         "name": "oppo_bbp",
         "scope": [
             "https://developers.oppomobile.com",
@@ -3795,7 +3798,9 @@
             "www.getaroom.com",
             "flyiin.com",
             "priceline.com",
-            "Penny"
+            "Penny",
+            "ir.bookingholdings.com",
+            "bookingholdings-coe.com"
         ],
         "url": "https://hackerone.com/priceline"
     },
